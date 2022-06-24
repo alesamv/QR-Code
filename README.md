@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/alesamv/QR-Code](https://github.com/alesamv/QR-Code)
+- Live Site URL: [https://alesamv.github.io/QR-Code/](https://alesamv.github.io/QR-Code/)
 
 ## My process
 
@@ -29,5 +29,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/alesamv)
-- Twitter - [@yourusername](https://www.twitter.com/alesamv)
+- Frontend Mentor - [@alesamv](https://www.frontendmentor.io/profile/alesamv)
+- Twitter - [@alesamv](https://www.twitter.com/alesamv)
